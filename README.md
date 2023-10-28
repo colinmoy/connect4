@@ -1,2 +1,2 @@
 # connect4
-Connect 4 Game coded using Python
+Connect 4 Game created using Python
